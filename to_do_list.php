@@ -14,7 +14,7 @@ echo ">";
 echo "To Do";
 echo "</option>";
 echo "</select>";
-echo "<input type='submit' name='submit' value='Submit'>";
+echo "<input type='submit' name='submit' value='Filter'>";
 echo "</form>";
 
 if(isset($_POST['submit'])){
